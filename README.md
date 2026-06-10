@@ -32,5 +32,17 @@ data/
 notebooks/
 screenshots/
 
+## Project Screenshots
+
+### Monthly Sales Trend
+![Monthly Sales Trend](screenshots/monthly_sales.png)
+
+### Customer Segment Analysis
+![Customer Segment Analysis](screenshots/customer_segment.png)
+
+### Power BI Dashboard
+![Power BI Dashboard](screenshots/powerbi_dashboard.png)
+
+
 ## Author
-Bheemalingappa BT
+Bheemalingappa 
