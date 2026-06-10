@@ -40,9 +40,6 @@ screenshots/
 ### Customer Segment Analysis
 ![Customer Segment Analysis](screenshots/customer_segment.png)
 
-### Power BI Dashboard
-![Power BI Dashboard](screenshots/powerbi_dashboard.png)
-
 
 ## Author
 Bheemalingappa 
